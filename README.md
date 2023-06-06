@@ -36,7 +36,9 @@ We will be using the data available to analyze the factors affecting the hotel b
 We will be tackling this problem statement
 
 1.How Many Booking Were Cancelled?
+
 2.What is the booking ratio between Resort Hotel and City Hotel?
+
 3.What is the percentage of booking for each year?
 4.Which is the busiest month for hotels?
 5.From which country most guests come?
